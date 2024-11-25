@@ -98,6 +98,12 @@ This project is an Employee Management System (EMS) developed using React for th
    npx stryker run
    ```
 
+## Screenshot
+
+Mutation Testing by Stryker 
+
+![EMS Screenshot](./screenshots/s2.png)
+
 ## Contributors
 
 - **Swarnim Kukreti (MT2023029)**: Backend, frontend login, and designing test cases for login client-side.
